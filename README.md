@@ -64,7 +64,7 @@ By leveraging **Pandas, Matplotlib, and Seaborn**, the project identifies churn 
 ## How to Run This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/viv661/Telecom-Industry-Churn-Rate-Revenue-Growth/blob/main/telecom.ipynb
+   git clone https://github.com/Rahul-themaverick/Telecom-Industry-Churn-Rate-Revenue-Growth/blob/main/telecom.ipynb
 
 
 
